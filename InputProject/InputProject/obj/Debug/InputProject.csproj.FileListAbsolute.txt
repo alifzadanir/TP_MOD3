@@ -1,0 +1,5 @@
+D:\TP KPL\TPKPL_3\InputProject\InputProject\obj\Debug\InputProject.csproj.AssemblyReference.cache
+D:\TP KPL\TPKPL_3\InputProject\InputProject\obj\Debug\InputProject.Form1.resources
+D:\TP KPL\TPKPL_3\InputProject\InputProject\obj\Debug\InputProject.Properties.Resources.resources
+D:\TP KPL\TPKPL_3\InputProject\InputProject\obj\Debug\InputProject.csproj.GenerateResource.cache
+D:\TP KPL\TPKPL_3\InputProject\InputProject\obj\Debug\InputProject.csproj.CoreCompileInputs.cache
